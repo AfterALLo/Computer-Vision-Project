@@ -1,3 +1,5 @@
+# Link to Dataset: https://drive.google.com/drive/folders/1AqFK6vAHOXDTznJsAo8-d0vB5mCToll9?usp=sharing
+
 # Computer-Vision-Project
 In the following 3 weeks, you will be building on your previous work with image datasets, and focus on applying the YOLO (You Only Look Once)framework to your custom dataset for your chosen task(classfication, detection, segmentation). In this tutorial we will focus on object detection only, for other tasks you will have to make few changes in notebook as well as labelled files, because each task requires specific lableling format and pre-trained models. You will fine-tune the YOLO model using the dataset you've created or annotated.Then focus on evaluating the YOLO model. You will assess its performance, discuss a potential use-case, and critically analyze its shortcomings and ethical considerations. 
 
